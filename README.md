@@ -4,8 +4,8 @@ The Programming Languages I've attempted
 Ruby,C#,C,C++,Python,Bash
 
 The Languages i Currently Use from Most to Least
-C
 JavaScript
+Python
 HTML
 
 <!---
